@@ -1,0 +1,40 @@
+tamamdır Privacy Policy
+Last Updated: August 2026
+
+1. Introduction
+tamamdır (“we”, “our”, or “the App”), developed by Byteheus, respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the App.
+
+2. Information We Collect
+Account Information: Email address and display name used for authentication (Apple, Google, or email/password) and so friends can recognise you.
+Task Data: Tasks, lists, projects, tags, notes, due dates, locations, and travel trips you create in the App.
+Social Data: Friend connections, friend requests, optional nicknames you set for friends on your device, and tasks you send to or receive from friends.
+Device Data: A push notification token so friend-task alerts can reach your device. Local reminder preferences stay on your device.
+
+3. How We Use Your Information
+To provide and improve app functionality (syncing your workspace across devices).
+To authenticate users and keep accounts secure.
+To deliver friend-task notifications you choose to receive.
+To operate and maintain the service hosted on Firebase (Google).
+
+4. Sharing Your Information
+We do not sell, trade, or share your data with third parties for advertising or tracking purposes.
+Friends only see the tasks you send them and your display name — they cannot read your private lists.
+Data is processed by Firebase (Authentication, Firestore, Cloud Messaging) solely to run the App.
+
+5. Security
+We use industry-standard measures, including encrypted transport (HTTPS) and Firebase security rules that keep each user’s workspace private except for explicitly shared friend tasks.
+
+6. Your Choices
+You can change your display name, manage friend connections, and control notification preferences in Settings.
+You can delete your account at any time within the App. Deleting your profile removes your tasks, lists, friendships, and account data from our servers.
+
+7. Children’s Privacy
+The App is not directed at children under 13. We do not knowingly collect personal information from children.
+
+8. Changes
+We may update this Privacy Policy from time to time. The “Last Updated” date at the top will change when we do. Continued use of the App after an update means you accept the revised policy.
+
+9. Contact Us
+For questions or support regarding this Privacy Policy:
+Email: byteheus@gmail.com
+Support: https://github.com/merttdyrgn/tamamdir-Support
