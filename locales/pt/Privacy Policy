@@ -1,0 +1,40 @@
+Política de Privacidade do tamamdır
+Última atualização: agosto de 2026
+
+1. Introdução
+O tamamdır («nós», «nosso» ou «a Aplicação»), desenvolvido pela Byteheus, respeita a sua privacidade. Esta Política de Privacidade explica como recolhemos, utilizamos e protegemos as suas informações quando usa a Aplicação.
+
+2. Informações que recolhemos
+Informações da conta: Endereço de e-mail e nome de apresentação usados para autenticação (Apple, Google ou e-mail/palavra-passe) e para que os amigos o possam reconhecer.
+Dados de tarefas: Tarefas, listas, projetos, etiquetas, notas, datas de vencimento, localizações e viagens que cria na Aplicação.
+Dados sociais: Ligações de amigos, pedidos de amizade, alcunhas opcionais que define para amigos no dispositivo e tarefas que envia a amigos ou recebe deles.
+Dados do dispositivo: Um token de notificação push para que os alertas de tarefas de amigos possam chegar ao seu dispositivo. As preferências de lembretes locais permanecem no dispositivo.
+
+3. Como utilizamos as suas informações
+Para fornecer e melhorar a funcionalidade da aplicação (sincronizar o seu espaço de trabalho entre dispositivos).
+Para autenticar utilizadores e manter as contas seguras.
+Para entregar as notificações de tarefas de amigos que escolhe receber.
+Para operar e manter o serviço alojado no Firebase (Google).
+
+4. Partilha das suas informações
+Não vendemos, trocamos nem partilhamos os seus dados com terceiros para fins publicitários ou de rastreio.
+Os amigos apenas veem as tarefas que lhes envia e o seu nome de apresentação — não podem ler as suas listas privadas.
+Os dados são processados pelo Firebase (Authentication, Firestore, Cloud Messaging) apenas para executar a Aplicação.
+
+5. Segurança
+Utilizamos medidas padrão da indústria, incluindo transporte encriptado (HTTPS) e regras de segurança do Firebase que mantêm o espaço de trabalho de cada utilizador privado, exceto para tarefas de amigos explicitamente partilhadas.
+
+6. As suas opções
+Pode alterar o nome de apresentação, gerir ligações de amigos e controlar as preferências de notificação em Definições.
+Pode eliminar a sua conta a qualquer momento na Aplicação. Eliminar o perfil remove as suas tarefas, listas, amizades e dados da conta dos nossos servidores.
+
+7. Privacidade das crianças
+A Aplicação não se destina a crianças com menos de 13 anos. Não recolhemos conscientemente informações pessoais de crianças.
+
+8. Alterações
+Podemos atualizar esta Política de Privacidade de tempos a tempos. A data «Última atualização» no topo mudará quando o fizermos. A utilização continuada da Aplicação após uma atualização significa que aceita a política revista.
+
+9. Contacte-nos
+Para perguntas ou suporte sobre esta Política de Privacidade:
+E-mail: byteheus@gmail.com
+Suporte: https://github.com/merttdyrgn/tamamdir-Support

@@ -1,0 +1,40 @@
+tamamdır Privacybeleid
+Laatst bijgewerkt: augustus 2026
+
+1. Inleiding
+tamamdır («wij», «ons» of «de App»), ontwikkeld door Byteheus, respecteert je privacy. Dit Privacybeleid legt uit hoe we je gegevens verzamelen, gebruiken en beschermen wanneer je de App gebruikt.
+
+2. Gegevens die we verzamelen
+Accountgegevens: E-mailadres en weergavenaam gebruikt voor authenticatie (Apple, Google of e-mail/wachtwoord) en zodat vrienden je kunnen herkennen.
+Taakgegevens: Taken, lijsten, projecten, tags, notities, deadlines, locaties en reizen die je in de App aanmaakt.
+Sociale gegevens: Vriendschapsverbindingen, vriendschapsverzoeken, optionele bijnamen die je voor vrienden op je apparaat instelt, en taken die je naar vrienden stuurt of van hen ontvangt.
+Apparaatgegevens: Een pushmeldingstoken zodat waarschuwingen over vriendentaken je apparaat kunnen bereiken. Lokale herinneringsvoorkeuren blijven op je apparaat.
+
+3. Hoe we je gegevens gebruiken
+Om de functionaliteit van de app te bieden en te verbeteren (je werkruimte synchroniseren tussen apparaten).
+Om gebruikers te authenticeren en accounts veilig te houden.
+Om meldingen over vriendentaken te leveren die je wilt ontvangen.
+Om de op Firebase (Google) gehoste dienst te exploiteren en te onderhouden.
+
+4. Delen van je gegevens
+We verkopen, ruilen of delen je gegevens niet met derden voor reclame- of trackingdoeleinden.
+Vrienden zien alleen de taken die je hen stuurt en je weergavenaam — ze kunnen je privélijsten niet lezen.
+Gegevens worden door Firebase (Authentication, Firestore, Cloud Messaging) uitsluitend verwerkt om de App te laten werken.
+
+5. Beveiliging
+We gebruiken industriestandaard maatregelen, inclusief versleuteld transport (HTTPS) en Firebase-beveiligingsregels die de werkruimte van elke gebruiker privé houden, behalve voor expliciet gedeelde vriendentaken.
+
+6. Jouw keuzes
+Je kunt je weergavenaam wijzigen, vriendschapsverbindingen beheren en meldingsvoorkeuren regelen in Instellingen.
+Je kunt je account op elk moment in de App verwijderen. Het verwijderen van je profiel verwijdert je taken, lijsten, vriendschappen en accountgegevens van onze servers.
+
+7. Privacy van kinderen
+De App is niet gericht op kinderen onder de 13 jaar. We verzamelen niet bewust persoonlijke gegevens van kinderen.
+
+8. Wijzigingen
+We kunnen dit Privacybeleid van tijd tot tijd bijwerken. De datum «Laatst bijgewerkt» bovenaan verandert dan. Voortgezet gebruik van de App na een update betekent dat je het herziene beleid accepteert.
+
+9. Neem contact op
+Voor vragen of ondersteuning over dit Privacybeleid:
+E-mail: byteheus@gmail.com
+Ondersteuning: https://github.com/merttdyrgn/tamamdir-Support

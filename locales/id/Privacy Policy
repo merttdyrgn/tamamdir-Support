@@ -1,0 +1,40 @@
+Kebijakan Privasi tamamdır
+Terakhir Diperbarui: Agustus 2026
+
+1. Pendahuluan
+tamamdır (“kami”, “milik kami”, atau “Aplikasi”), dikembangkan oleh Byteheus, menghormati privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat Anda menggunakan Aplikasi.
+
+2. Informasi yang Kami Kumpulkan
+Informasi Akun: Alamat email dan nama tampilan yang digunakan untuk autentikasi (Apple, Google, atau email/kata sandi) agar teman dapat mengenali Anda.
+Data Tugas: Tugas, daftar, proyek, tag, catatan, tanggal jatuh tempo, lokasi, dan perjalanan yang Anda buat di Aplikasi.
+Data Sosial: Koneksi teman, permintaan pertemanan, nama panggilan opsional yang Anda atur untuk teman di perangkat Anda, dan tugas yang Anda kirim ke atau terima dari teman.
+Data Perangkat: Token notifikasi push agar peringatan tugas teman dapat mencapai perangkat Anda. Preferensi pengingat lokal tetap di perangkat Anda.
+
+3. Bagaimana Kami Menggunakan Informasi Anda
+Untuk menyediakan dan meningkatkan fungsionalitas aplikasi (menyinkronkan ruang kerja Anda di berbagai perangkat).
+Untuk mengautentikasi pengguna dan menjaga keamanan akun.
+Untuk menyampaikan notifikasi tugas teman yang Anda pilih untuk diterima.
+Untuk mengoperasikan dan memelihara layanan yang dihosting di Firebase (Google).
+
+4. Berbagi Informasi Anda
+Kami tidak menjual, memperdagangkan, atau membagikan data Anda kepada pihak ketiga untuk tujuan iklan atau pelacakan.
+Teman hanya melihat tugas yang Anda kirimkan kepada mereka dan nama tampilan Anda — mereka tidak dapat membaca daftar pribadi Anda.
+Data diproses oleh Firebase (Authentication, Firestore, Cloud Messaging) semata-mata untuk menjalankan Aplikasi.
+
+5. Keamanan
+Kami menggunakan langkah-langkah standar industri, termasuk transportasi terenkripsi (HTTPS) dan aturan keamanan Firebase yang menjaga ruang kerja setiap pengguna tetap pribadi kecuali untuk tugas teman yang dibagikan secara eksplisit.
+
+6. Pilihan Anda
+Anda dapat mengubah nama tampilan, mengelola koneksi teman, dan mengontrol preferensi notifikasi di Pengaturan.
+Anda dapat menghapus akun kapan saja di dalam Aplikasi. Menghapus profil menghapus tugas, daftar, pertemanan, dan data akun Anda dari server kami.
+
+7. Privasi Anak
+Aplikasi tidak ditujukan untuk anak di bawah 13 tahun. Kami tidak secara sengaja mengumpulkan informasi pribadi dari anak-anak.
+
+8. Perubahan
+Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Tanggal “Terakhir Diperbarui” di bagian atas akan berubah saat kami melakukannya. Penggunaan Aplikasi yang berkelanjutan setelah pembaruan berarti Anda menerima kebijakan yang direvisi.
+
+9. Hubungi Kami
+Untuk pertanyaan atau dukungan terkait Kebijakan Privasi ini:
+Email: byteheus@gmail.com
+Dukungan: https://github.com/merttdyrgn/tamamdir-Support

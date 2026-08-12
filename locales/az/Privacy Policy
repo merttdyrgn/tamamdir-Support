@@ -1,0 +1,40 @@
+tamamdır Məxfilik Siyasəti
+Son Yeniləmə: Avqust 2026
+
+1. Giriş
+Byteheus tərəfindən hazırlanmış tamamdır (“biz”, “bizim” və ya “Tətbiq”) məxfiliyinizə hörmət edir. Bu Məxfilik Siyasəti Tətbiqdən istifadə edərkən məlumatlarınızı necə topladığımızı, istifadə etdiyimizi və qoruduğumuzu izah edir.
+
+2. Topladığımız Məlumatlar
+Hesab Məlumatı: Autentifikasiya (Apple, Google və ya e-poçt/parol) üçün istifadə olunan e-poçt ünvanı və göstərilən ad, həmçinin dostların sizi tanıması üçün.
+Tapşırıq Məlumatları: Tətbiqdə yaratdığınız tapşırıqlar, siyahılar, layihələr, teqlər, qeydlər, son tarixlər, məkanlar və səyahətlər.
+Sosial Məlumatlar: Dost bağlantıları, dostluq sorğuları, cihazınızda dostlar üçün təyin etdiyiniz istəyə bağlı ləqəblər və dostlara göndərdiyiniz və ya onlardan aldığınız tapşırıqlar.
+Cihaz Məlumatları: Dost tapşırığı xəbərdarlıqlarının cihazınıza çatması üçün push bildiriş tokeni. Yerli xatırlatma üstünlükləri cihazınızda qalır.
+
+3. Məlumatlarınızdan Necə İstifadə Edirik
+Tətbiq funksionallığını təmin etmək və təkmilləşdirmək üçün (iş sahənizi cihazlar arasında sinxronlaşdırmaq).
+İstifadəçiləri autentifikasiya etmək və hesabları təhlükəsiz saxlamaq üçün.
+Almağı seçdiyiniz dost-tapşırıq bildirişlərini çatdırmaq üçün.
+Firebase (Google) üzərində yerləşən xidməti idarə etmək və saxlamaq üçün.
+
+4. Məlumatlarınızın Paylaşılması
+Reklam və ya izləmə məqsədləri üçün məlumatlarınızı üçüncü tərəflərə satmırıq, mübadilə etmirik və ya paylaşmırıq.
+Dostlar yalnız onlara göndərdiyiniz tapşırıqları və göstərilən adınızı görür — şəxsi siyahılarınızı oxuya bilməzlər.
+Məlumatlar yalnız Tətbiqi işlətmək üçün Firebase (Authentication, Firestore, Cloud Messaging) tərəfindən emal olunur.
+
+5. Təhlükəsizlik
+Şifrələnmiş ötürülmə (HTTPS) və açıq şəkildə paylaşılmış dost tapşırıqları istisna olmaqla hər istifadəçinin iş sahəsini məxfi saxlayan Firebase təhlükəsizlik qaydaları daxil olmaqla sənaye standartı tədbirlərdən istifadə edirik.
+
+6. Seçimləriniz
+Parametrlərdə göstərilən adı dəyişə, dost bağlantılarını idarə edə və bildiriş üstünlüklərini idarə edə bilərsiniz.
+Hesabınızı Tətbiq daxilində istənilən vaxt silə bilərsiniz. Profilinizi silmək tapşırıqlarınızı, siyahılarınızı, dostluqlarınızı və hesab məlumatlarınızı serverlərimizdən silir.
+
+7. Uşaqların Məxfiliyi
+Tətbiq 13 yaşdan kiçik uşaqlara yönəlməyib. Uşaqlardan bilərəkdən şəxsi məlumat toplamırıq.
+
+8. Dəyişikliklər
+Bu Məxfilik Siyasətini vaxtaşırı yeniləyə bilərik. Bunu etdikdə yuxarıdakı “Son Yeniləmə” tarixi dəyişəcək. Yeniləmədən sonra Tətbiqdən davamlı istifadə yenilənmiş siyasəti qəbul etdiyiniz anlamına gəlir.
+
+9. Bizimlə Əlaqə
+Bu Məxfilik Siyasəti ilə bağlı suallar və ya dəstək üçün:
+E-poçt: byteheus@gmail.com
+Dəstək: https://github.com/merttdyrgn/tamamdir-Support

@@ -1,0 +1,40 @@
+tamamdır Datenschutzerklärung
+Zuletzt aktualisiert: August 2026
+
+1. Einleitung
+tamamdır („wir“, „unser“ oder „die App“), entwickelt von Byteheus, respektiert deine Privatsphäre. Diese Datenschutzerklärung erklärt, wie wir deine Informationen erheben, verwenden und schützen, wenn du die App nutzt.
+
+2. Informationen, die wir erheben
+Kontoinformationen: E-Mail-Adresse und Anzeigename zur Authentifizierung (Apple, Google oder E-Mail/Passwort) und damit Freunde dich erkennen können.
+Aufgabendaten: Aufgaben, Listen, Projekte, Tags, Notizen, Fälligkeitsdaten, Orte und Reisen, die du in der App erstellst.
+Soziale Daten: Freundschaftsverbindungen, Freundschaftsanfragen, optionale Spitznamen, die du für Freunde auf deinem Gerät festlegst, sowie Aufgaben, die du an Freunde sendest oder von ihnen erhältst.
+Gerätedaten: Ein Push-Benachrichtigungs-Token, damit Freundschaftsaufgaben-Benachrichtigungen dein Gerät erreichen können. Lokale Erinnerungseinstellungen bleiben auf deinem Gerät.
+
+3. Wie wir deine Informationen verwenden
+Um die App-Funktionalität bereitzustellen und zu verbessern (Synchronisierung deines Arbeitsbereichs über Geräte hinweg).
+Um Nutzer zu authentifizieren und Konten zu sichern.
+Um Freundschaftsaufgaben-Benachrichtigungen zuzustellen, die du empfangen möchtest.
+Um den auf Firebase (Google) gehosteten Dienst zu betreiben und zu warten.
+
+4. Weitergabe deiner Informationen
+Wir verkaufen, tauschen oder teilen deine Daten nicht mit Dritten zu Werbe- oder Tracking-Zwecken.
+Freunde sehen nur die Aufgaben, die du ihnen sendest, und deinen Anzeigenamen — sie können deine privaten Listen nicht lesen.
+Daten werden von Firebase (Authentication, Firestore, Cloud Messaging) ausschließlich zum Betrieb der App verarbeitet.
+
+5. Sicherheit
+Wir verwenden branchenübliche Maßnahmen, einschließlich verschlüsselter Übertragung (HTTPS) und Firebase-Sicherheitsregeln, die den Arbeitsbereich jedes Nutzers privat halten — außer bei ausdrücklich geteilten Freundschaftsaufgaben.
+
+6. Deine Wahlmöglichkeiten
+Du kannst deinen Anzeigenamen ändern, Freundschaftsverbindungen verwalten und Benachrichtigungseinstellungen in den Einstellungen steuern.
+Du kannst dein Konto jederzeit in der App löschen. Das Löschen deines Profils entfernt deine Aufgaben, Listen, Freundschaften und Kontodaten von unseren Servern.
+
+7. Datenschutz von Kindern
+Die App richtet sich nicht an Kinder unter 13 Jahren. Wir erheben wissentlich keine personenbezogenen Daten von Kindern.
+
+8. Änderungen
+Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Das Datum „Zuletzt aktualisiert“ oben ändert sich dann. Die weitere Nutzung der App nach einer Aktualisierung bedeutet, dass du die überarbeitete Richtlinie akzeptierst.
+
+9. Kontakt
+Bei Fragen oder Support zu dieser Datenschutzerklärung:
+E-Mail: byteheus@gmail.com
+Support: https://github.com/merttdyrgn/tamamdir-Support

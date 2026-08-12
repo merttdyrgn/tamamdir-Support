@@ -1,0 +1,40 @@
+tamamdır Adatvédelmi irányelvek
+Utolsó frissítés: 2026. augusztus
+
+1. Bevezetés
+A Byteheus által fejlesztett tamamdır («mi», «miénk» vagy «az Alkalmazás») tiszteletben tartja a magánéletedet. Ez az Adatvédelmi irányelv elmagyarázza, hogyan gyűjtjük, használjuk és védjük az információidat, amikor az Alkalmazást használod.
+
+2. Az általunk gyűjtött információk
+Fiókadatok: Az autentikációhoz használt e-mail-cím és megjelenített név (Apple, Google vagy e-mail/jelszó), valamint hogy a barátaid felismerhessenek.
+Feladatadatok: Az Alkalmazásban létrehozott feladatok, listák, projektek, címkék, jegyzetek, határidők, helyek és utazások.
+Közösségi adatok: Baráti kapcsolatok, barátkérelmek, az eszközön barátokhoz beállított opcionális becenevek, valamint a barátoknak küldött vagy tőlük kapott feladatok.
+Eszközadatok: Egy push értesítési token, hogy a baráti feladat-értesítések elérhessék az eszközödet. A helyi emlékeztető beállítások az eszközön maradnak.
+
+3. Hogyan használjuk az információidat
+Az alkalmazás funkcióinak biztosítására és fejlesztésére (munkaterületed szinkronizálása eszközök között).
+A felhasználók hitelesítésére és a fiókok biztonságának fenntartására.
+A fogadni kívánt baráti feladat-értesítések kézbesítésére.
+A Firebase-en (Google) hosztolt szolgáltatás üzemeltetésére és karbantartására.
+
+4. Az információid megosztása
+Nem adjuk el, nem cseréljük és nem osztjuk meg adataidat harmadik felekkel reklám- vagy nyomkövetési célokra.
+A barátok csak az általad nekik küldött feladatokat és a megjelenített nevedet látják — a privát listáidat nem olvashatják.
+Az adatokat a Firebase (Authentication, Firestore, Cloud Messaging) kizárólag az Alkalmazás működtetéséhez dolgozza fel.
+
+5. Biztonság
+Iparági szabványú intézkedéseket alkalmazunk, beleértve a titkosított átvitelt (HTTPS) és a Firebase biztonsági szabályokat, amelyek minden felhasználó munkaterületét privátként tartják, kivéve a kifejezetten megosztott baráti feladatokat.
+
+6. A választásaid
+Megváltoztathatod a megjelenített nevedet, kezelheted a baráti kapcsolatokat és szabályozhatod az értesítési beállításokat a Beállításokban.
+Bármikor törölheted a fiókodat az Alkalmazásban. A profil törlése eltávolítja a feladataidat, listáidat, barátságaidat és fiókadatokat a szervereinkről.
+
+7. Gyermekek adatvédelme
+Az Alkalmazás nem 13 év alatti gyermekeknek szól. Nem gyűjtünk szándékosan személyes adatokat gyermekektől.
+
+8. Változások
+Időről időre frissíthetjük ezt az Adatvédelmi irányelvet. A felső «Utolsó frissítés» dátum akkor megváltozik. Az Alkalmazás frissítés utáni további használata azt jelenti, hogy elfogadod a felülvizsgált irányelvet.
+
+9. Kapcsolatfelvétel
+Az Adatvédelmi irányelvvel kapcsolatos kérdésekhez vagy támogatáshoz:
+E-mail: byteheus@gmail.com
+Ügyfélszolgálat: https://github.com/merttdyrgn/tamamdir-Support

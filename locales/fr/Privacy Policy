@@ -1,0 +1,40 @@
+Politique de confidentialité de tamamdır
+Dernière mise à jour : août 2026
+
+1. Introduction
+tamamdır (« nous », « notre » ou « l'Application »), développé par Byteheus, respecte votre vie privée. Cette Politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez l'Application.
+
+2. Informations que nous collectons
+Informations de compte : Adresse e-mail et nom d'affichage utilisés pour l'authentification (Apple, Google ou e-mail/mot de passe) et pour que vos amis puissent vous reconnaître.
+Données de tâches : Tâches, listes, projets, tags, notes, dates d'échéance, lieux et voyages que vous créez dans l'Application.
+Données sociales : Connexions d'amis, demandes d'amis, surnoms optionnels que vous définissez pour vos amis sur votre appareil, et tâches que vous envoyez à vos amis ou recevez d'eux.
+Données de l'appareil : Un jeton de notification push afin que les alertes de tâches d'amis puissent atteindre votre appareil. Les préférences de rappels locaux restent sur votre appareil.
+
+3. Comment nous utilisons vos informations
+Pour fournir et améliorer les fonctionnalités de l'application (synchronisation de votre espace de travail entre appareils).
+Pour authentifier les utilisateurs et sécuriser les comptes.
+Pour délivrer les notifications de tâches d'amis que vous choisissez de recevoir.
+Pour exploiter et maintenir le service hébergé sur Firebase (Google).
+
+4. Partage de vos informations
+Nous ne vendons, n'échangeons ni ne partageons vos données avec des tiers à des fins publicitaires ou de suivi.
+Vos amis ne voient que les tâches que vous leur envoyez et votre nom d'affichage — ils ne peuvent pas lire vos listes privées.
+Les données sont traitées par Firebase (Authentication, Firestore, Cloud Messaging) uniquement pour faire fonctionner l'Application.
+
+5. Sécurité
+Nous utilisons des mesures conformes aux standards du secteur, notamment le transport chiffré (HTTPS) et les règles de sécurité Firebase qui gardent l'espace de travail de chaque utilisateur privé, sauf pour les tâches d'amis explicitement partagées.
+
+6. Vos choix
+Vous pouvez modifier votre nom d'affichage, gérer vos connexions d'amis et contrôler les préférences de notification dans Réglages.
+Vous pouvez supprimer votre compte à tout moment dans l'Application. La suppression de votre profil retire vos tâches, listes, amitiés et données de compte de nos serveurs.
+
+7. Confidentialité des enfants
+L'Application ne s'adresse pas aux enfants de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnelles auprès d'enfants.
+
+8. Modifications
+Nous pouvons mettre à jour cette Politique de confidentialité de temps à autre. La date « Dernière mise à jour » en haut changera alors. L'utilisation continue de l'Application après une mise à jour signifie que vous acceptez la politique révisée.
+
+9. Nous contacter
+Pour toute question ou support concernant cette Politique de confidentialité :
+E-mail : byteheus@gmail.com
+Support : https://github.com/merttdyrgn/tamamdir-Support

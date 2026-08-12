@@ -1,0 +1,40 @@
+Patakaran sa Privacy ng tamamdır
+Huling Na-update: Agosto 2026
+
+1. Panimula
+Iginagalang ng tamamdır (“kami”, “aming”, o “ang App”), na binuo ng Byteheus, ang iyong privacy. Ipinaliliwanag ng Patakaran sa Privacy na ito kung paano namin kinokolekta, ginagamit, at pinoprotektahan ang iyong impormasyon kapag ginagamit mo ang App.
+
+2. Impormasyong Kinokolekta Namin
+Impormasyon ng Account: Email address at display name na ginagamit para sa authentication (Apple, Google, o email/password) at upang makilala ka ng mga kaibigan.
+Data ng Task: Mga task, listahan, proyekto, tag, tala, due date, lokasyon, at travel trip na ginagawa mo sa App.
+Social Data: Mga koneksyon sa kaibigan, friend request, opsyonal na nickname na itinakda mo para sa mga kaibigan sa iyong device, at mga task na ipinapadala mo sa o natatanggap mula sa mga kaibigan.
+Device Data: Push notification token upang maabot ang mga friend-task alert ang iyong device. Nananatili sa iyong device ang mga lokal na reminder preference.
+
+3. Paano Namin Ginagamit ang Iyong Impormasyon
+Upang magbigay at mapabuti ang functionality ng app (pag-sync ng iyong workspace sa mga device).
+Upang i-authenticate ang mga user at panatilihing secure ang mga account.
+Upang ihatid ang mga friend-task notification na pinili mong matanggap.
+Upang patakbuhin at panatilihin ang serbisyong naka-host sa Firebase (Google).
+
+4. Pagbabahagi ng Iyong Impormasyon
+Hindi namin ibinebenta, ipinagpapalit, o ibinabahagi ang iyong data sa mga third party para sa advertising o tracking.
+Nakikita lang ng mga kaibigan ang mga task na ipinadala mo sa kanila at ang iyong display name — hindi nila mababasa ang iyong mga pribadong listahan.
+Pinoproseso ang data ng Firebase (Authentication, Firestore, Cloud Messaging) upang patakbuhin ang App.
+
+5. Seguridad
+Gumagamit kami ng mga industry-standard na hakbang, kabilang ang encrypted transport (HTTPS) at mga Firebase security rule na nagpapanatiling pribado ang workspace ng bawat user maliban sa mga tahasang nakabahaging friend task.
+
+6. Iyong mga Pagpipilian
+Maaari mong baguhin ang display name, pamahalaan ang mga koneksyon sa kaibigan, at kontrolin ang mga preference sa notification sa Settings.
+Maaari mong tanggalin ang iyong account anumang oras sa loob ng App. Ang pagtanggal ng profile ay nag-aalis ng iyong mga task, listahan, pagkakaibigan, at data ng account mula sa aming mga server.
+
+7. Privacy ng mga Bata
+Hindi nakatuon ang App sa mga batang wala pang 13 taong gulang. Hindi kami sadyang nangongolekta ng personal na impormasyon mula sa mga bata.
+
+8. Mga Pagbabago
+Maaari naming i-update ang Patakaran sa Privacy na ito paminsan-minsan. Magbabago ang petsang “Huling Na-update” sa itaas kapag ginawa namin ito. Ang patuloy na paggamit ng App pagkatapos ng update ay nangangahulugang tinatanggap mo ang binagong patakaran.
+
+9. Makipag-ugnayan sa Amin
+Para sa mga tanong o suporta tungkol sa Patakaran sa Privacy na ito:
+Email: byteheus@gmail.com
+Suporta: https://github.com/merttdyrgn/tamamdir-Support

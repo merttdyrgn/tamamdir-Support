@@ -1,0 +1,40 @@
+tamamdır integritetspolicy
+Senast uppdaterad: augusti 2026
+
+1. Introduktion
+tamamdır (“vi”, “vår” eller “appen”), utvecklad av Byteheus, respekterar din integritet. Denna integritetspolicy förklarar hur vi samlar in, använder och skyddar din information när du använder appen.
+
+2. Information vi samlar in
+Kontoinformation: E-postadress och visningsnamn som används för autentisering (Apple, Google eller e-post/lösenord) så att vänner kan känna igen dig.
+Uppgiftsdata: Uppgifter, listor, projekt, taggar, anteckningar, förfallodatum, platser och resor som du skapar i appen.
+Sociala data: Vänskapskopplingar, vänförfrågningar, valfria smeknamn som du anger för vänner på din enhet, och uppgifter som du skickar till eller tar emot från vänner.
+Enhetsdata: En push-aviseringstoken så att vänuppgiftsaviseringar kan nå din enhet. Lokala påminnelseinställningar stannar på din enhet.
+
+3. Hur vi använder din information
+För att tillhandahålla och förbättra appens funktionalitet (synkronisering av din arbetsyta mellan enheter).
+För att autentisera användare och hålla konton säkra.
+För att leverera vänuppgiftsaviseringar som du väljer att ta emot.
+För att driva och underhålla tjänsten som hostas på Firebase (Google).
+
+4. Delning av din information
+Vi säljer, byter eller delar inte dina uppgifter med tredje parter för reklam- eller spårningsändamål.
+Vänner ser bara de uppgifter du skickar till dem och ditt visningsnamn — de kan inte läsa dina privata listor.
+Data behandlas av Firebase (Authentication, Firestore, Cloud Messaging) enbart för att köra appen.
+
+5. Säkerhet
+Vi använder branschstandardåtgärder, inklusive krypterad överföring (HTTPS) och Firebase-säkerhetsregler som håller varje användares arbetsyta privat utom uttryckligen delade vänuppgifter.
+
+6. Dina val
+Du kan ändra ditt visningsnamn, hantera vänskapskopplingar och styra aviseringsinställningar i Inställningar.
+Du kan ta bort ditt konto när som helst i appen. Om du tar bort din profil tas dina uppgifter, listor, vänskaper och kontouppgifter bort från våra servrar.
+
+7. Barns integritet
+Appen riktar sig inte till barn under 13. Vi samlar inte medvetet in personuppgifter från barn.
+
+8. Ändringar
+Vi kan uppdatera denna integritetspolicy då och då. Datumet “Senast uppdaterad” högst upp ändras när vi gör det. Fortsatt användning av appen efter en uppdatering innebär att du accepterar den reviderade policyn.
+
+9. Kontakta oss
+För frågor eller support om denna integritetspolicy:
+E-post: byteheus@gmail.com
+Support: https://github.com/merttdyrgn/tamamdir-Support

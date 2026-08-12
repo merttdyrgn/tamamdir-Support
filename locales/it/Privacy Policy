@@ -1,0 +1,40 @@
+Informativa sulla privacy di tamamdır
+Ultimo aggiornamento: agosto 2026
+
+1. Introduzione
+tamamdır («noi», «nostro» o «l'App»), sviluppata da Byteheus, rispetta la tua privacy. Questa Informativa sulla privacy spiega come raccogliamo, utilizziamo e proteggiamo le tue informazioni quando usi l'App.
+
+2. Informazioni che raccogliamo
+Informazioni sull'account: Indirizzo email e nome visualizzato usati per l'autenticazione (Apple, Google o email/password) e affinché gli amici possano riconoscerti.
+Dati delle attività: Attività, elenchi, progetti, tag, note, scadenze, posizioni e viaggi che crei nell'App.
+Dati sociali: Connessioni di amici, richieste di amicizia, soprannomi opzionali che imposti per gli amici sul dispositivo e attività che invii agli amici o ricevi da loro.
+Dati del dispositivo: Un token di notifica push affinché gli avvisi sulle attività degli amici possano raggiungere il tuo dispositivo. Le preferenze dei promemoria locali restano sul dispositivo.
+
+3. Come utilizziamo le tue informazioni
+Per fornire e migliorare le funzionalità dell'app (sincronizzazione del tuo spazio di lavoro tra dispositivi).
+Per autenticare gli utenti e mantenere gli account sicuri.
+Per consegnare le notifiche sulle attività degli amici che scegli di ricevere.
+Per gestire e mantenere il servizio ospitato su Firebase (Google).
+
+4. Condivisione delle tue informazioni
+Non vendiamo, scambiamo né condividiamo i tuoi dati con terze parti per scopi pubblicitari o di tracciamento.
+Gli amici vedono solo le attività che invii loro e il tuo nome visualizzato — non possono leggere i tuoi elenchi privati.
+I dati sono elaborati da Firebase (Authentication, Firestore, Cloud Messaging) esclusivamente per far funzionare l'App.
+
+5. Sicurezza
+Utilizziamo misure conformi agli standard del settore, incluso il trasporto crittografato (HTTPS) e le regole di sicurezza Firebase che mantengono privato lo spazio di lavoro di ciascun utente, tranne le attività degli amici esplicitamente condivise.
+
+6. Le tue scelte
+Puoi modificare il nome visualizzato, gestire le connessioni di amici e controllare le preferenze di notifica in Impostazioni.
+Puoi eliminare il tuo account in qualsiasi momento dall'App. L'eliminazione del profilo rimuove attività, elenchi, amicizie e dati dell'account dai nostri server.
+
+7. Privacy dei minori
+L'App non è rivolta a minori di 13 anni. Non raccogliamo consapevolmente informazioni personali di minori.
+
+8. Modifiche
+Possiamo aggiornare questa Informativa sulla privacy di tanto in tanto. La data «Ultimo aggiornamento» in alto cambierà quando lo faremo. L'uso continuato dell'App dopo un aggiornamento significa che accetti l'informativa rivista.
+
+9. Contattaci
+Per domande o supporto riguardo a questa Informativa sulla privacy:
+Email: byteheus@gmail.com
+Supporto: https://github.com/merttdyrgn/tamamdir-Support

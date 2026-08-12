@@ -1,0 +1,40 @@
+tamamdır Privatlivspolitik
+Senest opdateret: august 2026
+
+1. Introduktion
+tamamdır (“vi”, “vores” eller “appen”), udviklet af Byteheus, respekterer dit privatliv. Denne privatlivspolitik forklarer, hvordan vi indsamler, bruger og beskytter dine oplysninger, når du bruger appen.
+
+2. Oplysninger, vi indsamler
+Kontooplysninger: E-mailadresse og visningsnavn, der bruges til godkendelse (Apple, Google eller e-mail/adgangskode), så venner kan genkende dig.
+Opgavedata: Opgaver, lister, projekter, tags, noter, forfaldsdatoer, steder og rejser, du opretter i appen.
+Sociale data: Venneforbindelser, venneanmodninger, valgfrie kaldenavne, du angiver for venner på din enhed, og opgaver, du sender til eller modtager fra venner.
+Enhedsdata: En push-notifikationstoken, så venners opgaveadvarsler kan nå din enhed. Lokale påmindelsespræferencer forbliver på din enhed.
+
+3. Hvordan vi bruger dine oplysninger
+Til at levere og forbedre appens funktionalitet (synkronisering af dit arbejdsområde på tværs af enheder).
+Til at autentificere brugere og holde konti sikre.
+Til at levere venneopgave-notifikationer, som du vælger at modtage.
+Til at drive og vedligeholde tjenesten hostet på Firebase (Google).
+
+4. Deling af dine oplysninger
+Vi sælger, handler eller deler ikke dine data med tredjeparter til reklame- eller sporingsformål.
+Venner ser kun de opgaver, du sender dem, og dit visningsnavn — de kan ikke læse dine private lister.
+Data behandles af Firebase (Authentication, Firestore, Cloud Messaging) udelukkende for at køre appen.
+
+5. Sikkerhed
+Vi bruger industristandardforanstaltninger, herunder krypteret transport (HTTPS) og Firebase-sikkerhedsregler, der holder hver brugers arbejdsområde privat undtagen eksplicit delte venneopgaver.
+
+6. Dine valg
+Du kan ændre dit visningsnavn, administrere venneforbindelser og styre notifikationspræferencer under Indstillinger.
+Du kan slette din konto når som helst i appen. Sletning af din profil fjerner dine opgaver, lister, venskaber og kontodata fra vores servere.
+
+7. Børns privatliv
+Appen er ikke rettet mod børn under 13. Vi indsamler ikke bevidst personlige oplysninger fra børn.
+
+8. Ændringer
+Vi kan opdatere denne privatlivspolitik fra tid til anden. Datoen “Senest opdateret” øverst ændres, når vi gør det. Fortsat brug af appen efter en opdatering betyder, at du accepterer den reviderede politik.
+
+9. Kontakt os
+Ved spørgsmål eller support vedrørende denne privatlivspolitik:
+E-mail: byteheus@gmail.com
+Support: https://github.com/merttdyrgn/tamamdir-Support

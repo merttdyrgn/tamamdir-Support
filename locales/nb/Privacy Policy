@@ -1,0 +1,40 @@
+tamamdır personvernerklæring
+Sist oppdatert: august 2026
+
+1. Innledning
+tamamdır («vi», «vår» eller «appen»), utviklet av Byteheus, respekterer personvernet ditt. Denne personvernerklæringen forklarer hvordan vi samler inn, bruker og beskytter informasjonen din når du bruker appen.
+
+2. Informasjon vi samler inn
+Kontoinformasjon: E-postadresse og visningsnavn som brukes til autentisering (Apple, Google eller e-post/passord), slik at venner kan kjenne deg igjen.
+Oppgavedata: Oppgaver, lister, prosjekter, tagger, notater, forfallsdatoer, steder og reiser du oppretter i appen.
+Sosiale data: Venneforbindelser, venneforespørsler, valgfrie kallenavn du setter for venner på enheten din, og oppgaver du sender til eller mottar fra venner.
+Enhetsdata: Et push-varslingstoken slik at venneoppgavevarsler kan nå enheten din. Lokale påminnelsespreferanser blir på enheten din.
+
+3. Hvordan vi bruker informasjonen din
+For å tilby og forbedre appfunksjonalitet (synkronisering av arbeidsområdet ditt på tvers av enheter).
+For å autentisere brukere og holde kontoer sikre.
+For å levere venneoppgavevarsler du velger å motta.
+For å drifte og vedlikeholde tjenesten som er hostet på Firebase (Google).
+
+4. Deling av informasjonen din
+Vi selger, bytter eller deler ikke dataene dine med tredjeparter for reklame- eller sporingsformål.
+Venner ser bare oppgavene du sender dem og visningsnavnet ditt — de kan ikke lese dine private lister.
+Data behandles av Firebase (Authentication, Firestore, Cloud Messaging) utelukkende for å kjøre appen.
+
+5. Sikkerhet
+Vi bruker bransjestandardtiltak, inkludert kryptert transport (HTTPS) og Firebase-sikkerhetsregler som holder hver brukers arbeidsområde privat, unntatt eksplisitt delte venneoppgaver.
+
+6. Dine valg
+Du kan endre visningsnavn, administrere venneforbindelser og styre varslingspreferanser i Innstillinger.
+Du kan slette kontoen din når som helst i appen. Sletting av profilen fjerner oppgavene, listene, vennskapene og kontodataene dine fra serverne våre.
+
+7. Barns personvern
+Appen er ikke rettet mot barn under 13. Vi samler ikke bevisst inn personopplysninger fra barn.
+
+8. Endringer
+Vi kan oppdatere denne personvernerklæringen fra tid til annen. Datoen «Sist oppdatert» øverst endres når vi gjør det. Fortsatt bruk av appen etter en oppdatering betyr at du godtar den reviderte erklæringen.
+
+9. Kontakt oss
+For spørsmål eller støtte om denne personvernerklæringen:
+E-post: byteheus@gmail.com
+Støtte: https://github.com/merttdyrgn/tamamdir-Support

@@ -1,0 +1,40 @@
+tamamdır-tietosuojakäytäntö
+Viimeksi päivitetty: elokuu 2026
+
+1. Johdanto
+Byteheusin kehittämä tamamdır (“me”, “meidän” tai “Sovellus”) kunnioittaa yksityisyyttäsi. Tämä tietosuojakäytäntö selittää, miten keräämme, käytämme ja suojaamme tietojasi, kun käytät Sovellusta.
+
+2. Keräämämme tiedot
+Tilin tiedot: Todennukseen (Apple, Google tai sähköposti/salasana) käytetty sähköpostiosoite ja näyttönimi, jotta ystävät tunnistavat sinut.
+Tehtävätiedot: Sovelluksessa luomasi tehtävät, listat, projektit, tunnisteet, muistiinpanot, määräajat, sijainnit ja matkat.
+Sosiaaliset tiedot: Ystäväyhteydet, ystäväpyynnöt, valinnaiset lempinimet, jotka asetat ystäville laitteellasi, sekä tehtävät, joita lähetät ystäville tai vastaanotat heiltä.
+Laitetiedot: Push-ilmoitustunnus, jotta ystävätehtäväilmoitukset voivat tavoittaa laitteesi. Paikalliset muistutusasetukset pysyvät laitteellasi.
+
+3. Miten käytämme tietojasi
+Sovelluksen toiminnallisuuden tarjoamiseen ja parantamiseen (työtilan synkronointi laitteiden välillä).
+Käyttäjien todentamiseen ja tilien pitämiseen turvassa.
+Valitsemiesi ystävätehtäväilmoitusten toimittamiseen.
+Firebase-palvelulla (Google) isännöidyn palvelun ylläpitoon.
+
+4. Tietojesi jakaminen
+Emme myy, vaihda tai jaa tietojasi kolmansille osapuolille mainonta- tai seurantatarkoituksiin.
+Ystävät näkevät vain heille lähettämäsi tehtävät ja näyttönimesi — he eivät voi lukea yksityisiä listojasi.
+Tietoja käsittelee Firebase (Authentication, Firestore, Cloud Messaging) ainoastaan Sovelluksen käyttämiseksi.
+
+5. Turvallisuus
+Käytämme alan standardeja, mukaan lukien salattu siirto (HTTPS) ja Firebasen tietoturvasäännöt, jotka pitävät kunkin käyttäjän työtilan yksityisenä lukuun ottamatta nimenomaisesti jaettuja ystävätehtäviä.
+
+6. Valintasi
+Voit vaihtaa näyttönimesi, hallita ystäväyhteyksiä ja hallita ilmoitusasetuksia Asetuksissa.
+Voit poistaa tilisi milloin tahansa Sovelluksessa. Profiilin poistaminen poistaa tehtäväsi, listasi, ystävyytesi ja tilitietosi palvelimiltamme.
+
+7. Lasten yksityisyys
+Sovellus ei ole tarkoitettu alle 13-vuotiaille lapsille. Emme tietoisesti kerää henkilötietoja lapsilta.
+
+8. Muutokset
+Voimme päivittää tätä tietosuojakäytäntöä ajoittain. Yläreunan “Viimeksi päivitetty” -päivämäärä muuttuu, kun teemme sen. Sovelluksen käytön jatkaminen päivityksen jälkeen tarkoittaa, että hyväksyt muutetun käytännön.
+
+9. Ota yhteyttä
+Kysymyksiä tai tukea tähän tietosuojakäytäntöön liittyen:
+Sähköposti: byteheus@gmail.com
+Tuki: https://github.com/merttdyrgn/tamamdir-Support

@@ -1,0 +1,40 @@
+Politica de confidențialitate tamamdır
+Ultima actualizare: august 2026
+
+1. Introducere
+tamamdır («noi», «al nostru» sau «Aplicația»), dezvoltată de Byteheus, respectă confidențialitatea ta. Această Politică de confidențialitate explică cum colectăm, folosim și protejăm informațiile tale când folosești Aplicația.
+
+2. Informațiile pe care le colectăm
+Informații despre cont: Adresa de e-mail și numele afișat folosite pentru autentificare (Apple, Google sau e-mail/parolă) și pentru ca prietenii să te poată recunoaște.
+Date despre sarcini: Sarcini, liste, proiecte, etichete, note, termene, locații și călătorii pe care le creezi în Aplicație.
+Date sociale: Conexiuni de prieteni, cereri de prietenie, porecle opționale pe care le setezi pentru prieteni pe dispozitiv și sarcini pe care le trimiți prietenilor sau le primești de la ei.
+Date despre dispozitiv: Un token de notificare push pentru ca alertele despre sarcinile prietenilor să poată ajunge pe dispozitivul tău. Preferințele pentru mementourile locale rămân pe dispozitiv.
+
+3. Cum folosim informațiile tale
+Pentru a oferi și îmbunătăți funcționalitatea aplicației (sincronizarea spațiului de lucru între dispozitive).
+Pentru a autentifica utilizatorii și a menține conturile în siguranță.
+Pentru a livra notificările despre sarcinile prietenilor pe care alegi să le primești.
+Pentru a opera și menține serviciul găzduit pe Firebase (Google).
+
+4. Partajarea informațiilor tale
+Nu vindem, nu schimbăm și nu partajăm datele tale cu terți în scopuri publicitare sau de urmărire.
+Prietenii văd doar sarcinile pe care le trimiți și numele tău afișat — nu pot citi listele tale private.
+Datele sunt procesate de Firebase (Authentication, Firestore, Cloud Messaging) exclusiv pentru a rula Aplicația.
+
+5. Securitate
+Folosim măsuri conforme standardelor din industrie, inclusiv transport criptat (HTTPS) și reguli de securitate Firebase care păstrează spațiul de lucru al fiecărui utilizator privat, cu excepția sarcinilor de la prieteni partajate explicit.
+
+6. Alegerile tale
+Poți schimba numele afișat, gestiona conexiunile de prieteni și controla preferințele de notificare în Setări.
+Poți șterge contul oricând din Aplicație. Ștergerea profilului elimină sarcinile, listele, prieteniile și datele contului de pe serverele noastre.
+
+7. Confidențialitatea copiilor
+Aplicația nu se adresează copiilor sub 13 ani. Nu colectăm în mod conștient informații personale de la copii.
+
+8. Modificări
+Putem actualiza această Politică de confidențialitate din când în când. Data «Ultima actualizare» din partea de sus se va schimba atunci. Continuarea utilizării Aplicației după o actualizare înseamnă că accepți politica revizuită.
+
+9. Contactează-ne
+Pentru întrebări sau asistență privind această Politică de confidențialitate:
+E-mail: byteheus@gmail.com
+Asistență: https://github.com/merttdyrgn/tamamdir-Support

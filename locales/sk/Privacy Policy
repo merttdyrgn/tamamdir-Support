@@ -1,0 +1,40 @@
+Zásady ochrany osobných údajov tamamdır
+Posledná aktualizácia: august 2026
+
+1. Úvod
+tamamdır («my», «náš» alebo «Aplikácia»), vyvinutá spoločnosťou Byteheus, rešpektuje vaše súkromie. Tieto Zásady ochrany osobných údajov vysvetľujú, ako zhromažďujeme, používame a chránime vaše informácie pri používaní Aplikácie.
+
+2. Informácie, ktoré zhromažďujeme
+Informácie o účte: E-mailová adresa a zobrazované meno používané na overenie (Apple, Google alebo e-mail/heslo) a aby vás priatelia mohli spoznať.
+Údaje o úlohách: Úlohy, zoznamy, projekty, značky, poznámky, termíny, miesta a cesty, ktoré vytvoríte v Aplikácii.
+Sociálne údaje: Spojenia s priateľmi, žiadosti o priateľstvo, voliteľné prezývky, ktoré nastavíte pre priateľov na zariadení, a úlohy, ktoré posielate priateľom alebo od nich dostávate.
+Údaje zariadenia: Token push oznámení, aby upozornenia na úlohy od priateľov mohli dosiahnuť vaše zariadenie. Preferencie miestnych pripomienok zostávajú na zariadení.
+
+3. Ako používame vaše informácie
+Na poskytovanie a zlepšovanie funkcií aplikácie (synchronizácia pracovného priestoru medzi zariadeniami).
+Na overovanie používateľov a zabezpečenie účtov.
+Na doručovanie oznámení o úlohách od priateľov, ktoré sa rozhodnete prijímať.
+Na prevádzku a údržbu služby hostovanej na Firebase (Google).
+
+4. Zdieľanie vašich informácií
+Nepredávame, nevymieňame ani nezdieľame vaše údaje s tretími stranami na reklamné alebo sledovacie účely.
+Priatelia vidia iba úlohy, ktoré im posielate, a vaše zobrazované meno — nemôžu čítať vaše súkromné zoznamy.
+Údaje spracováva Firebase (Authentication, Firestore, Cloud Messaging) výlučne na účely behu Aplikácie.
+
+5. Zabezpečenie
+Používame priemyselné štandardné opatrenia vrátane šifrovaného prenosu (HTTPS) a bezpečnostných pravidiel Firebase, ktoré udržiavajú pracovný priestor každého používateľa súkromný s výnimkou výslovne zdieľaných úloh s priateľmi.
+
+6. Vaše voľby
+Môžete zmeniť zobrazované meno, spravovať spojenia s priateľmi a ovládať preferencie oznámení v Nastaveniach.
+Účet môžete odstrániť kedykoľvek v Aplikácii. Odstránenie profilu odstráni vaše úlohy, zoznamy, priateľstvá a údaje účtu z našich serverov.
+
+7. Súkromie detí
+Aplikácia nie je určená deťom mladším ako 13 rokov. Vedome nezhromažďujeme osobné údaje od detí.
+
+8. Zmeny
+Tieto Zásady ochrany osobných údajov môžeme čas od času aktualizovať. Dátum «Posledná aktualizácia» hore sa potom zmení. Pokračujúce používanie Aplikácie po aktualizácii znamená, že prijímate revidované zásady.
+
+9. Kontaktujte nás
+Pre otázky alebo podporu ohľadom týchto Zásad ochrany osobných údajov:
+E-mail: byteheus@gmail.com
+Podpora: https://github.com/merttdyrgn/tamamdir-Support

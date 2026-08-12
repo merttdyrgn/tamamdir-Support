@@ -1,0 +1,40 @@
+Política de privadesa de tamamdır
+Darrera actualització: agost de 2026
+
+1. Introducció
+tamamdır («nosaltres», «nostre» o «l’Aplicació»), desenvolupada per Byteheus, respecta la teva privadesa. Aquesta Política de privadesa explica com recopilem, utilitzem i protegim la teva informació quan fas servir l’Aplicació.
+
+2. Informació que recopilem
+Informació del compte: Adreça de correu electrònic i nom visible utilitzats per a l’autenticació (Apple, Google o correu/contrasenya) i perquè els amics et puguin reconèixer.
+Dades de tasques: Tasques, llistes, projectes, etiquetes, notes, dates de venciment, ubicacions i viatges que crees a l’Aplicació.
+Dades socials: Connexions d’amics, sol·licituds d’amistat, sobrenoms opcionals que defineixes per als amics al teu dispositiu, i tasques que envies a amics o en reps.
+Dades del dispositiu: Un testimoni de notificació push perquè les alertes de tasques d’amics arribin al teu dispositiu. Les preferències de recordatoris locals romanen al teu dispositiu.
+
+3. Com utilitzem la teva informació
+Per proporcionar i millorar la funcionalitat de l’aplicació (sincronitzar el teu espai de treball entre dispositius).
+Per autenticar usuaris i mantenir els comptes segurs.
+Per lliurar les notificacions de tasques d’amics que decides rebre.
+Per operar i mantenir el servei allotjat a Firebase (Google).
+
+4. Compartició de la teva informació
+No venem, intercanviem ni compartim les teves dades amb tercers amb finalitats publicitàries o de seguiment.
+Els amics només veuen les tasques que els envies i el teu nom visible — no poden llegir les teves llistes privades.
+Les dades les processa Firebase (Authentication, Firestore, Cloud Messaging) únicament per fer funcionar l’Aplicació.
+
+5. Seguretat
+Utilitzem mesures estàndard del sector, incloent-hi el transport xifrat (HTTPS) i les regles de seguretat de Firebase que mantenen privat l’espai de treball de cada usuari, excepte les tasques d’amics compartides explícitament.
+
+6. Les teves opcions
+Pots canviar el nom visible, gestionar les connexions d’amics i controlar les preferències de notificació a Configuració.
+Pots eliminar el teu compte en qualsevol moment dins de l’Aplicació. Eliminar el perfil suprimeix les teves tasques, llistes, amistats i dades del compte dels nostres servidors.
+
+7. Privadesa dels infants
+L’Aplicació no s’adreça a infants menors de 13 anys. No recopilem deliberadament informació personal d’infants.
+
+8. Canvis
+Podem actualitzar aquesta Política de privadesa de tant en tant. La data de «Darrera actualització» de la part superior canviarà quan ho fem. L’ús continuat de l’Aplicació després d’una actualització significa que acceptes la política revisada.
+
+9. Contacta amb nosaltres
+Per a preguntes o assistència sobre aquesta Política de privadesa:
+Correu electrònic: byteheus@gmail.com
+Assistència: https://github.com/merttdyrgn/tamamdir-Support

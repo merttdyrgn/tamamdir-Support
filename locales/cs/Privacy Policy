@@ -1,0 +1,40 @@
+Zásady ochrany osobních údajů tamamdır
+Poslední aktualizace: srpen 2026
+
+1. Úvod
+tamamdır («my», «náš» nebo «Aplikace»), vyvinutá společností Byteheus, respektuje vaše soukromí. Tyto Zásady ochrany osobních údajů vysvětlují, jak shromažďujeme, používáme a chráníme vaše informace při používání Aplikace.
+
+2. Informace, které shromažďujeme
+Informace o účtu: E-mailová adresa a zobrazované jméno používané k ověření (Apple, Google nebo e-mail/heslo) a aby vás přátelé mohli poznat.
+Data úkolů: Úkoly, seznamy, projekty, štítky, poznámky, termíny, místa a cesty, které vytvoříte v Aplikaci.
+Sociální data: Spojení s přáteli, žádosti o přátelství, volitelné přezdívky, které nastavíte pro přátele na zařízení, a úkoly, které posíláte přátelům nebo od nich přijímáte.
+Data zařízení: Token push oznámení, aby upozornění na úkoly od přátel mohla dosáhnout vašeho zařízení. Preference místních připomínek zůstávají na zařízení.
+
+3. Jak používáme vaše informace
+K poskytování a zlepšování funkcí aplikace (synchronizace pracovního prostoru mezi zařízeními).
+K ověřování uživatelů a zabezpečení účtů.
+K doručování oznámení o úkolech od přátel, která se rozhodnete přijímat.
+K provozu a údržbě služby hostované na Firebase (Google).
+
+4. Sdílení vašich informací
+Neprodáváme, nevyměňujeme ani nesdílíme vaše data s třetími stranami pro reklamní nebo sledovací účely.
+Přátelé vidí pouze úkoly, které jim posíláte, a vaše zobrazované jméno — nemohou číst vaše soukromé seznamy.
+Data zpracovává Firebase (Authentication, Firestore, Cloud Messaging) výhradně za účelem běhu Aplikace.
+
+5. Zabezpečení
+Používáme průmyslové standardní opatření včetně šifrovaného přenosu (HTTPS) a bezpečnostních pravidel Firebase, která udržují pracovní prostor každého uživatele soukromý s výjimkou výslovně sdílených úkolů s přáteli.
+
+6. Vaše volby
+Můžete změnit zobrazované jméno, spravovat spojení s přáteli a ovládat preference oznámení v Nastavení.
+Účet můžete smazat kdykoli v Aplikaci. Smazání profilu odstraní vaše úkoly, seznamy, přátelství a data účtu z našich serverů.
+
+7. Soukromí dětí
+Aplikace není určena dětem mladším 13 let. Vědomě neshromažďujeme osobní údaje od dětí.
+
+8. Změny
+Tyto Zásady ochrany osobních údajů můžeme čas od času aktualizovat. Datum «Poslední aktualizace» nahoře se pak změní. Pokračující používání Aplikace po aktualizaci znamená, že přijímáte revidované zásady.
+
+9. Kontaktujte nás
+Pro dotazy nebo podporu ohledně těchto Zásad ochrany osobních údajů:
+E-mail: byteheus@gmail.com
+Podpora: https://github.com/merttdyrgn/tamamdir-Support

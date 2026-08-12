@@ -1,0 +1,40 @@
+Pravilnik o zasebnosti tamamdır
+Zadnja posodobitev: avgust 2026
+
+1. Uvod
+tamamdır («mi», «naš» ali «Aplikacija»), ki jo je razvil Byteheus, spoštuje vašo zasebnost. Ta Pravilnik o zasebnosti pojasnjuje, kako zbiramo, uporabljamo in varujemo vaše podatke, ko uporabljate Aplikacijo.
+
+2. Podatki, ki jih zbiramo
+Podatki o računu: E-poštni naslov in prikazano ime, uporabljena za preverjanje pristnosti (Apple, Google ali e-pošta/geslo) in da vas lahko prijatelji prepoznajo.
+Podatki o opravilih: Opravila, seznami, projekti, oznake, zapiski, roki, lokacije in potovanja, ki jih ustvarite v Aplikaciji.
+Družbeni podatki: Povezave s prijatelji, zahteve za prijateljstvo, neobvezni vzdevki, ki jih nastavite za prijatelje na napravi, ter opravila, ki jih pošljete prijateljem ali prejmete od njih.
+Podatki o napravi: Žeton potisnih obvestil, da lahko opozorila o opravilih prijateljev dosežejo vašo napravo. Nastavitve lokalnih opomnikov ostanejo na napravi.
+
+3. Kako uporabljamo vaše podatke
+Za zagotavljanje in izboljšanje funkcionalnosti aplikacije (sinhronizacija delovnega prostora med napravami).
+Za preverjanje pristnosti uporabnikov in zagotavljanje varnosti računov.
+Za dostavo obvestil o opravilih prijateljev, ki jih izberete prejemati.
+Za upravljanje in vzdrževanje storitve, gostovane na Firebase (Google).
+
+4. Deljenje vaših podatkov
+Ne prodajamo, ne izmenjujemo in ne delimo vaših podatkov s tretjimi osebami za oglaševalske ali sledilne namene.
+Prijatelji vidijo le opravila, ki jim jih pošljete, in vaše prikazano ime — ne morejo brati vaših zasebnih seznamov.
+Podatke obdela Firebase (Authentication, Firestore, Cloud Messaging) izključno za delovanje Aplikacije.
+
+5. Varnost
+Uporabljamo industrijske standardne ukrepe, vključno s šifriranim prenosom (HTTPS) in varnostnimi pravili Firebase, ki ohranjajo delovni prostor vsakega uporabnika zaseben, razen za izrecno deljena opravila s prijatelji.
+
+6. Vaše izbire
+Lahko spremenite prikazano ime, upravljate povezave s prijatelji in nadzorujete nastavitve obvestil v Nastavitvah.
+Račun lahko kadarkoli izbrišete v Aplikaciji. Brisanje profila odstrani vaša opravila, sezname, prijateljstva in podatke o računu z naših strežnikov.
+
+7. Zasebnost otrok
+Aplikacija ni namenjena otrokom, mlajšim od 13 let. Zavestno ne zbiramo osebnih podatkov otrok.
+
+8. Spremembe
+Ta Pravilnik o zasebnosti lahko občasno posodobimo. Datum «Zadnja posodobitev» na vrhu se bo tedaj spremenil. Nadaljnja uporaba Aplikacije po posodobitvi pomeni, da sprejemate revidirani pravilnik.
+
+9. Kontaktirajte nas
+Za vprašanja ali podporo glede tega Pravilnika o zasebnosti:
+E-pošta: byteheus@gmail.com
+Podpora: https://github.com/merttdyrgn/tamamdir-Support

@@ -1,0 +1,40 @@
+tamamdır Gizlilik Politikası
+Son Güncelleme: Ağustos 2026
+
+1. Giriş
+Byteheus tarafından geliştirilen tamamdır (“biz”, “bizim” veya “Uygulama”), gizliliğinize saygı duyar. Bu Gizlilik Politikası, Uygulamayı kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar.
+
+2. Topladığımız Bilgiler
+Hesap Bilgileri: Kimlik doğrulama için kullanılan e-posta adresi ve görünen ad (Apple, Google veya e-posta/şifre) ve arkadaşlarınızın sizi tanıması için.
+Görev Verileri: Uygulamada oluşturduğunuz görevler, listeler, projeler, etiketler, notlar, son tarihler, konumlar ve seyahatler.
+Sosyal Veriler: Arkadaş bağlantıları, arkadaşlık istekleri, cihazınızda arkadaşlar için belirlediğiniz isteğe bağlı takma adlar ve arkadaşlara gönderdiğiniz veya arkadaşlardan aldığınız görevler.
+Cihaz Verileri: Arkadaş-görev uyarılarının cihazınıza ulaşabilmesi için bir anlık bildirim jetonu. Yerel hatırlatıcı tercihleri cihazınızda kalır.
+
+3. Bilgilerinizi Nasıl Kullanırız
+Uygulama işlevselliğini sağlamak ve geliştirmek için (çalışma alanınızı cihazlar arasında senkronize etmek).
+Kullanıcıları doğrulamak ve hesapları güvende tutmak için.
+Almayı seçtiğiniz arkadaş-görev bildirimlerini iletmek için.
+Firebase (Google) üzerinde barındırılan hizmeti işletmek ve sürdürmek için.
+
+4. Bilgilerinizin Paylaşılması
+Verilerinizi reklam veya izleme amaçlarıyla üçüncü taraflara satmaz, takas etmez veya paylaşmayız.
+Arkadaşlar yalnızca onlara gönderdiğiniz görevleri ve görünen adınızı görür — özel listelerinizi okuyamazlar.
+Veriler, yalnızca Uygulamayı çalıştırmak amacıyla Firebase (Authentication, Firestore, Cloud Messaging) tarafından işlenir.
+
+5. Güvenlik
+HTTPS ile şifreli aktarım ve her kullanıcının çalışma alanını açıkça paylaşılan arkadaş görevleri dışında gizli tutan Firebase güvenlik kuralları dahil olmak üzere endüstri standardı önlemler kullanırız.
+
+6. Seçenekleriniz
+Ayarlar'dan görünen adınızı değiştirebilir, arkadaş bağlantılarını yönetebilir ve bildirim tercihlerini kontrol edebilirsiniz.
+Hesabınızı istediğiniz zaman Uygulama içinden silebilirsiniz. Profilinizi silmek; görevlerinizi, listelerinizi, arkadaşlıklarınızı ve hesap verilerinizi sunucularımızdan kaldırır.
+
+7. Çocukların Gizliliği
+Uygulama 13 yaşın altındaki çocuklara yönelik değildir. Çocuklardan bilerek kişisel bilgi toplamayız.
+
+8. Değişiklikler
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Yaptığımızda üstteki “Son Güncelleme” tarihi değişecektir. Bir güncellemeden sonra Uygulamayı kullanmaya devam etmeniz, revize edilmiş politikayı kabul ettiğiniz anlamına gelir.
+
+9. Bize Ulaşın
+Bu Gizlilik Politikası ile ilgili sorularınız veya destek için:
+E-posta: byteheus@gmail.com
+Destek: https://github.com/merttdyrgn/tamamdir-Support
